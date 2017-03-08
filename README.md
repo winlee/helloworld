@@ -1,4 +1,5 @@
 # helloworld
-freecodecamp study repository
 
-THE first study from FCC
+## Baidu IFE exercise 
+
+  - Target: more experience of HTML&CSS
